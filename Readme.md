@@ -1,9 +1,9 @@
-````md
-# 🔆 React Custom Syntax Highlighter
+
+🔆 React Custom Syntax Highlighter
 
 A lightweight, zero-dependency syntax highlighter component for **PHP** and **Node.js** code — with language toggle, copy-to-clipboard, and dark mode support.
 
-## ✨ Features
+✨ Features
 
 - ✅ Supports PHP and Node.js syntax
 - 🎨 Custom Tailwind-style color tokens
@@ -12,19 +12,15 @@ A lightweight, zero-dependency syntax highlighter component for **PHP** and **No
 - 📋 Copy-to-clipboard button
 - ⚙️ Built using plain TypeScript + React
 
----
+📦 Installation
 
-## 📦 Installation
-
-```bash
+```
 npm install react-code-syntax-highlighter
 # or
 yarn add react-code-syntax-highlighter
-````
+```
 
----
-
-## 🚀 Usage
+🚀 Usage
 
 ```tsx
 import { CustomCodeBlock } from "react-code-syntax-highlighter";
@@ -77,15 +73,6 @@ echo "Webhook received";
 * [ ] Export raw HTML renderer
 * [ ] Support for themes (light/dark toggle)
 * [ ] Publish as CDN-compatible build
-
----
-
-## 🛠 Dev Commands
-
-```bash
-npm run build     # compile to /dist
-npm run watch     # watch mode (optional)
-```
 
 ---
 
