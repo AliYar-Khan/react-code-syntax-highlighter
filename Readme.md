@@ -1,7 +1,3 @@
-Here’s a professional and complete `README.md` template tailored for your **React-based code syntax highlighter for PHP and Node.js**, ready to drop into your project:
-
----
-
 ````md
 # 🔆 React Custom Syntax Highlighter
 
