@@ -12,7 +12,7 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.11",
     "react": "^19.1.0",
-    "react-code-syntax-highlighter": "^1.0.0",
+    "react-code-syntax-highlighter": "^1.0.3",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
