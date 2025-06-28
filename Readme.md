@@ -63,7 +63,8 @@ echo "Webhook received";
 
 > Dark mode example:
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/1.png)
+![Screenshot](./assets/2.png)
 
 ---
 
